@@ -54,7 +54,7 @@ Help is Here:
 6. Use `.ping` to See if bot is Replying or not.
 7. Use `.image text` to see a Picture of your Category.
 
-						Creator: Mr. SparX, BriZZesH
+						Creator: Mr. SparX
 ''')
 			if '.ping' in string:
 				user = message.author.mention
