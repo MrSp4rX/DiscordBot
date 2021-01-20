@@ -19,4 +19,8 @@
   <li>Sometimes it dont send accurate photos</li>
 </ol>
 
+<br>
+<h4>Add this Bot to Your Server: <a href="https://bit.ly/2XRcyhq">Click Here</a>
+<br>
+
 <i><b>If You want to Contribute, Feel free to Pull a Request</i></b>
