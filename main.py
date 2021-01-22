@@ -92,7 +92,7 @@ Help is Here:
 			elif ".wikipedia" in string:
 				query = string.replace(".wikipedia", "")
 				try:
-					result = wikipedia.summary(query, sentences=2)
+					result = wikipedia.summary(query, sentences=3)
 					await message.channel.send("According to Wikipedia:\n"+result)
 					query = query.capitalize()
 				except:
