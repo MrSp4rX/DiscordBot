@@ -8,7 +8,7 @@ import wikipedia
 import random
 
 token = environ['token']
-abuse = ['bhosadike','madarchod','bsdk', 'bhsdk', 'betichod', 'chod', 'lund', 'gand ', 'jerk', 'lode', 'loda', 'madarchod', 'mdrchod', 'madar', 'chut', 'bc', 'mkchut', 'mc','mkc','lund','jhat','suwar','kutte','randi','bhosadi','m4drch0d','m4d4rch0d','mdrch0d','b#05adik3','bh05adik3','bh0sadike','bh0sad!ke','bho5adike','bh0sadike','bh0sad!ke','ch0d','m4d4rch0d','land','m@d@rc#0d','m@d@rch0d','m@d@rchod','l4nd','.bhosadike','.madarchod','.bsdk', '.bhsdk', '.betichod', '.chod', '.lund', '.gand ', '.jerk', '.lode', '.loda', '.madarchod', '.mdrchod', '.madar', '.chut', '.bc', '.mkchut', '.mc','.mkc','.lund','.jhat','.suwar','.kutte','.randi','.bhosadi','.m4drch0d','.m4d4rch0d','.mdrch0d','.b#05adik3','.bh05adik3','.bh0sadike','.bh0sad!ke','.bho5adike','.bh0sadike','.bh0sad!ke','.ch0d','.m4d4rch0d','.land','.m@d@rc#0d','.m@d@rch0d','.m@d@rchod','.l4nd','bhosadike.','madarchod.','bsdk.', 'bhsdk.', 'betichod.', 'chod.', 'lund.', 'gand ', 'jerk.', 'lode.', 'loda.', 'madarchod.', 'mdrchod.', 'madar.', 'chut.', 'bc.', 'mkchut.', 'mc.','mkc.','lund.','jhat.','suwar.','kutte.','randi.','bhosadi.','m4drch0d.','m4d4rch0d.','mdrch0d.','b#05adik3.','bh05adik3.','bh0sadike.','bh0sad!ke.','bho5adike.','bh0sadike.','bh0sad!ke.','ch0d.','m4d4rch0d.','land.','m@d@rc#0d.','m@d@rch0d.','m@d@rchod.','l4nd.']
+abuse = ['bhosadike','bsdk', 'bhsdk', 'chod', 'lund', 'gand ', 'jerk', 'lode', 'loda', 'chut', 'bc', 'mc','mkc','lund','jhat','suwar','kutte','randi','bhosadi']
 
 abuse_reply = [
 	'Bhosadi ke aisa thappad marunga tere muh ke dant gad se hoker girenge.',
